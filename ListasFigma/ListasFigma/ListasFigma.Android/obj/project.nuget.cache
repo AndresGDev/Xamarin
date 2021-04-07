@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UbjyMwmLY89sXSjhIxgeUZzY7EA/enuJq/RqfimHexsn7aS5pBcOWrfAhydF11ikyIJNCTqNWMsoD58UgLwsIw==",
+  "dgSpecHash": "bZEfVUkkq6Lgrtj1poKLGa4PhqXDyni25fd1wRJB1o/VlNw6In+wkg9hPhLYpPAOLsRa2bVb+qWbCHi7h8kosw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma.Android\\ListasFigma.Android.csproj",
+  "projectFilePath": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma.Android\\ListasFigma.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp 6005\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma.Android\\ListasFigma.Android.csproj",
+      "projectUniqueName": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma.Android\\ListasFigma.Android.csproj",
       "projectName": "ListasFigma.Android",
-      "projectPath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma.Android\\ListasFigma.Android.csproj",
+      "projectPath": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma.Android\\ListasFigma.Android.csproj",
       "packagesPath": "C:\\Users\\hp 6005\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma.Android\\obj\\",
+      "outputPath": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2173,8 +2173,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj": {
-              "projectPath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj"
+            "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj": {
+              "projectPath": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj"
             }
           }
         }

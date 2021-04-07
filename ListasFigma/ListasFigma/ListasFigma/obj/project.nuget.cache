@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X8DFibpdWx52PrpDZEVSRC3WNah4Ovj88FYeuoD/9SalTiSLK1wUnhRycrmzNjJ1brzJDbpnlB65s9UaWgBVzw==",
+  "dgSpecHash": "/WHUJx4SKB73tSlUvO6tlaf/F+tAL0nC6V/bdZoPKAetfleS5XTUcMNuE8UJZy+ZZcJ27Lhl71fyNC5OLSzHXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj",
+  "projectFilePath": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp 6005\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\hp 6005\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

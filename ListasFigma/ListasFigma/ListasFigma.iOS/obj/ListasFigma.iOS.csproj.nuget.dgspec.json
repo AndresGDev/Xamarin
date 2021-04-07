@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\ListasFigma.iOS.csproj": {}
+    "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\ListasFigma.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\ListasFigma.iOS.csproj": {
+    "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\ListasFigma.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\ListasFigma.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\ListasFigma.iOS.csproj",
         "projectName": "ListasFigma.iOS",
-        "projectPath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\ListasFigma.iOS.csproj",
+        "projectPath": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\ListasFigma.iOS.csproj",
         "packagesPath": "C:\\Users\\hp 6005\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\obj\\",
+        "outputPath": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj": {
-                "projectPath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj"
+              "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj": {
+                "projectPath": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj": {
+    "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj",
+        "projectUniqueName": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj",
         "projectName": "ListasFigma",
-        "projectPath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj",
+        "projectPath": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma\\ListasFigma.csproj",
         "packagesPath": "C:\\Users\\hp 6005\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma\\obj\\",
+        "outputPath": "C:\\Users\\hp 6005\\Desktop\\Xamarin\\ListasFigma\\ListasFigma\\ListasFigma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
