@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zmy/cMXAFJg9o9BGJ0qKtbloqqboO9jUSgqtyudfUAFRrsX1DciBOF0Xl52HUaUanlIm/H1W9xm+94gmDWXPHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp 6005\\Desktop\\Visual Studio\\Xamarin Pruebas\\ListasFigma\\ListasFigma\\ListasFigma.iOS\\ListasFigma.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp 6005\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
